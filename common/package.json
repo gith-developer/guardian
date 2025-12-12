@@ -42,7 +42,7 @@
         "nats": "^2.6.1",
         "node-vault": "^0.10.0",
         "papaparse": "5.5.3",
-        "reflect-metadata": "^0.1.13",
+        "reflect-metadata": "^0.2.2",
         "ws": "^8.2.1",
         "@formulajs/formulajs": "4.5.4",
         "prom-client": "^14.1.1",
